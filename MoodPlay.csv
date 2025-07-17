@@ -1,0 +1,1001 @@
+Song,Mood,Time,Activity,Energy,Tempo,Recommendation_Label
+Kal Ho Naa Ho,Calm,Evening,Workout,0.96,97,1
+Tere Vaaste - Zara Hatke Zara Bachke,Calm,Evening,Workout,0.56,86,2
+Timi Nai Hau,Calm,Morning,Studying,0.51,99,3
+Yo Mann Ta Mero Nepali Ho,Sad,Morning,Relaxing,0.46,112,4
+Kesariya - Brahmastra,Energetic,Afternoon,Chilling,0.85,110,5
+Shayad,Energetic,Evening,Workout,0.68,101,6
+Unholy - Sam Smith,Energetic,Evening,Chilling,0.43,90,7
+Tere Vaaste - Zara Hatke Zara Bachke,Energetic,Morning,Relaxing,0.51,124,8
+Jhoome Jo Pathaan - Pathaan,Sad,Morning,Workout,0.93,110,9
+Farki Farki - Rohit John Chhetri,Happy,Afternoon,Workout,0.88,65,10
+Yo Mann Ta Mero Nepali Ho,Happy,Night,Relaxing,0.38,81,11
+Farki Farki - Rohit John Chhetri,Sad,Afternoon,Chilling,0.34,72,12
+Senorita,Sad,Morning,Studying,0.47,118,13
+Anti-Hero - Taylor Swift,Energetic,Evening,Chilling,0.72,128,14
+Farki Farki - Rohit John Chhetri,Happy,Morning,Studying,0.71,78,15
+Heeriye - Jasleen Royal,Energetic,Morning,Chilling,0.45,114,16
+Teenpatey - Tribal Rain,Energetic,Afternoon,Studying,0.78,123,17
+Perfect,Sad,Afternoon,Chilling,0.92,76,18
+Kal Ho Naa Ho,Happy,Afternoon,Studying,0.74,117,19
+Apna Bana Le - Bhediya,Energetic,Morning,Chilling,0.34,77,20
+Calm Down - Rema,Sad,Night,Studying,0.78,67,21
+Farki Farki - Rohit John Chhetri,Energetic,Afternoon,Workout,0.88,127,22
+Sa Karnali,Sad,Evening,Workout,0.66,61,23
+Yo Mann Ta Mero Nepali Ho,Happy,Afternoon,Relaxing,0.69,76,24
+Bekhayali,Calm,Morning,Chilling,0.64,88,25
+Saili,Sad,Morning,Studying,0.76,121,26
+Kal Ho Naa Ho,Energetic,Morning,Workout,0.62,120,27
+Je Chhau Timi - Sushant KC,Energetic,Evening,Relaxing,0.75,62,28
+Tera Ban Jaunga,Sad,Night,Chilling,0.6,125,29
+Shape of You,Energetic,Night,Workout,0.39,114,30
+Sannani - VTEN,Happy,Afternoon,Studying,0.42,67,31
+Timi Nai Hau,Calm,Afternoon,Studying,0.35,86,32
+Yo Mann Ta Mero Nepali Ho,Happy,Afternoon,Workout,0.46,97,33
+Sa Karnali,Calm,Afternoon,Chilling,0.74,98,34
+Saili,Sad,Night,Studying,0.34,130,35
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Evening,Studying,0.47,120,36
+Je Chhau Timi - Sushant KC,Sad,Evening,Chilling,0.33,110,37
+Shape of You,Happy,Afternoon,Relaxing,0.53,114,38
+Flowers - Miley Cyrus,Happy,Afternoon,Chilling,0.54,127,39
+Kesariya - Brahmastra,Happy,Morning,Workout,0.46,88,40
+Flowers - Miley Cyrus,Happy,Afternoon,Studying,1.0,85,41
+Timi Nai Hau,Calm,Afternoon,Chilling,0.82,68,42
+Sannani - VTEN,Calm,Morning,Workout,0.69,113,43
+Anti-Hero - Taylor Swift,Sad,Night,Workout,0.49,99,44
+Flowers - Miley Cyrus,Energetic,Afternoon,Workout,0.63,107,45
+Kal Ho Naa Ho,Sad,Evening,Studying,0.49,71,46
+Memories,Sad,Morning,Studying,0.56,116,47
+Kal Ho Naa Ho,Happy,Morning,Workout,0.92,98,48
+Heeriye - Jasleen Royal,Happy,Night,Studying,0.94,115,49
+Farki Farki - Rohit John Chhetri,Sad,Morning,Chilling,0.5,115,50
+Shayad,Sad,Afternoon,Chilling,0.69,89,51
+Perfect,Energetic,Afternoon,Workout,0.75,109,52
+Flowers - Miley Cyrus,Sad,Evening,Studying,0.73,114,53
+Jhoome Jo Pathaan - Pathaan,Happy,Night,Studying,0.38,70,54
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Morning,Relaxing,0.67,87,55
+Calm Down - Rema,Sad,Afternoon,Studying,0.48,91,56
+Jhoome Jo Pathaan - Pathaan,Sad,Evening,Relaxing,0.4,114,57
+Umer Jasto - Neetesh Jung Kunwar,Calm,Morning,Relaxing,0.93,86,58
+Shape of You,Happy,Evening,Relaxing,0.95,70,59
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Afternoon,Relaxing,0.63,114,60
+Teenpatey - Tribal Rain,Energetic,Evening,Relaxing,0.97,109,61
+Sa Karnali,Energetic,Morning,Chilling,0.4,106,62
+Jhoome Jo Pathaan - Pathaan,Calm,Afternoon,Workout,0.77,109,63
+Shayad,Sad,Night,Workout,0.68,68,64
+Shayad,Happy,Evening,Relaxing,0.47,106,65
+Timi Nai Hau,Energetic,Morning,Chilling,0.7,74,66
+Shape of You,Happy,Afternoon,Relaxing,0.98,114,67
+Flowers - Miley Cyrus,Sad,Afternoon,Workout,1.0,86,68
+Flowers - Miley Cyrus,Energetic,Afternoon,Workout,0.62,107,69
+Calm Down - Rema,Sad,Afternoon,Chilling,0.53,97,70
+Kesariya - Brahmastra,Sad,Afternoon,Workout,0.75,60,71
+Blinding Lights,Calm,Night,Studying,0.77,124,72
+As It Was - Harry Styles,Sad,Morning,Relaxing,0.34,81,73
+Heeriye - Jasleen Royal,Happy,Evening,Chilling,0.82,61,74
+Sannani - VTEN,Energetic,Night,Studying,0.97,69,75
+Teenpatey - Tribal Rain,Calm,Night,Chilling,0.7,93,76
+Sa Karnali,Sad,Night,Chilling,0.54,92,77
+Perfect,Energetic,Morning,Chilling,0.62,75,78
+Farki Farki - Rohit John Chhetri,Happy,Morning,Chilling,0.58,68,79
+Kal Ho Naa Ho,Energetic,Afternoon,Relaxing,0.73,110,80
+Tera Ban Jaunga,Energetic,Morning,Workout,0.76,122,81
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Night,Workout,0.51,117,82
+Teenpatey - Tribal Rain,Energetic,Night,Chilling,0.56,120,83
+Shayad,Happy,Night,Relaxing,0.4,124,84
+Sannani - VTEN,Happy,Evening,Chilling,0.87,81,85
+Teenpatey - Tribal Rain,Sad,Evening,Workout,0.96,74,86
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Evening,Studying,0.41,60,87
+Flowers - Miley Cyrus,Calm,Evening,Studying,0.96,100,88
+Teenpatey - Tribal Rain,Calm,Night,Studying,0.75,98,89
+Paint The Town Red - Doja Cat,Happy,Morning,Chilling,0.35,113,90
+Flowers - Miley Cyrus,Calm,Morning,Chilling,0.96,98,91
+Memories,Calm,Evening,Studying,0.44,61,92
+Jhoome Jo Pathaan - Pathaan,Calm,Evening,Workout,0.88,65,93
+Flowers - Miley Cyrus,Calm,Morning,Workout,0.33,78,94
+Flowers - Miley Cyrus,Calm,Evening,Studying,0.92,101,95
+Blinding Lights,Sad,Morning,Workout,0.6,126,96
+Bekhayali,Happy,Morning,Relaxing,0.93,81,97
+Sannani - VTEN,Energetic,Afternoon,Workout,0.82,66,98
+Tum Hi Ho,Happy,Morning,Relaxing,0.75,68,99
+Calm Down - Rema,Energetic,Morning,Studying,0.77,110,100
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Morning,Studying,0.87,86,101
+Saili,Sad,Night,Workout,0.36,81,102
+Sa Karnali,Sad,Morning,Relaxing,0.46,106,103
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Afternoon,Chilling,0.84,68,104
+Laija Re,Sad,Afternoon,Studying,0.59,96,105
+Je Chhau Timi - Sushant KC,Calm,Evening,Relaxing,0.56,82,106
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Night,Relaxing,0.36,130,107
+Blinding Lights,Energetic,Morning,Workout,0.67,115,108
+Perfect,Energetic,Night,Chilling,0.44,62,109
+Memories,Energetic,Afternoon,Relaxing,0.51,118,110
+Paint The Town Red - Doja Cat,Sad,Morning,Chilling,0.33,74,111
+Maya Pirati - Swoopna Suman,Calm,Evening,Workout,0.68,84,112
+Sannani - VTEN,Calm,Morning,Workout,0.32,118,113
+Blinding Lights,Sad,Morning,Studying,0.47,104,114
+Anti-Hero - Taylor Swift,Happy,Morning,Chilling,0.86,79,115
+Calm Down - Rema,Happy,Morning,Studying,0.9,106,116
+Tera Ban Jaunga,Happy,Night,Workout,1.0,60,117
+Laija Re,Calm,Morning,Chilling,0.57,72,118
+Perfect,Calm,Night,Studying,0.54,126,119
+Shayad,Happy,Morning,Relaxing,0.55,127,120
+Tere Vaaste - Zara Hatke Zara Bachke,Calm,Night,Relaxing,0.85,93,121
+Apna Bana Le - Bhediya,Sad,Night,Studying,0.79,93,122
+Je Chhau Timi - Sushant KC,Sad,Afternoon,Chilling,0.37,85,123
+Shape of You,Happy,Evening,Relaxing,0.9,95,124
+Bekhayali,Happy,Morning,Workout,0.33,109,125
+Je Chhau Timi - Sushant KC,Happy,Night,Relaxing,0.39,93,126
+Apna Bana Le - Bhediya,Sad,Evening,Chilling,0.62,128,127
+Paint The Town Red - Doja Cat,Sad,Afternoon,Studying,0.5,123,128
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Night,Chilling,0.97,100,129
+Apna Bana Le - Bhediya,Happy,Afternoon,Workout,0.68,78,130
+As It Was - Harry Styles,Sad,Morning,Workout,0.55,108,131
+Bekhayali,Energetic,Evening,Studying,0.65,84,132
+Blinding Lights,Calm,Evening,Workout,0.63,111,133
+Senorita,Energetic,Morning,Studying,0.88,89,134
+Tera Ban Jaunga,Calm,Afternoon,Studying,0.7,94,135
+Blinding Lights,Calm,Afternoon,Chilling,0.85,86,136
+Farki Farki - Rohit John Chhetri,Happy,Evening,Relaxing,0.95,98,137
+Kesariya - Brahmastra,Sad,Night,Relaxing,0.49,63,138
+Paint The Town Red - Doja Cat,Happy,Evening,Workout,0.4,73,139
+Shape of You,Energetic,Morning,Workout,0.58,122,140
+Sannani - VTEN,Energetic,Evening,Studying,0.86,109,141
+Memories,Happy,Afternoon,Chilling,0.49,118,142
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Morning,Studying,0.39,87,143
+Calm Down - Rema,Sad,Evening,Studying,0.68,100,144
+Yo Mann Ta Mero Nepali Ho,Calm,Night,Studying,0.82,81,145
+Bekhayali,Calm,Evening,Workout,0.45,111,146
+Kal Ho Naa Ho,Energetic,Afternoon,Chilling,0.4,72,147
+Dance The Night - Dua Lipa,Energetic,Night,Relaxing,0.46,98,148
+As It Was - Harry Styles,Energetic,Evening,Chilling,0.65,63,149
+Perfect,Sad,Afternoon,Studying,0.52,102,150
+Tera Ban Jaunga,Sad,Morning,Studying,0.81,122,151
+Sa Karnali,Sad,Night,Relaxing,0.89,110,152
+Heeriye - Jasleen Royal,Calm,Morning,Chilling,0.42,76,153
+Laija Re,Sad,Afternoon,Workout,0.4,90,154
+Je Chhau Timi - Sushant KC,Energetic,Afternoon,Chilling,0.92,121,155
+Kesariya - Brahmastra,Sad,Night,Workout,0.31,70,156
+Farki Farki - Rohit John Chhetri,Sad,Morning,Chilling,0.35,86,157
+Flowers - Miley Cyrus,Energetic,Night,Relaxing,0.97,79,158
+Maya Pirati - Swoopna Suman,Sad,Night,Chilling,0.53,66,159
+Anti-Hero - Taylor Swift,Happy,Afternoon,Studying,0.44,122,160
+Shape of You,Calm,Morning,Chilling,0.49,117,161
+Tum Hi Ho,Calm,Morning,Chilling,0.69,121,162
+Shayad,Sad,Night,Chilling,0.51,61,163
+Perfect,Happy,Morning,Workout,0.74,84,164
+Shape of You,Sad,Afternoon,Workout,0.54,108,165
+Calm Down - Rema,Sad,Night,Studying,0.58,129,166
+Sannani - VTEN,Calm,Morning,Workout,0.59,130,167
+Calm Down - Rema,Energetic,Evening,Workout,0.49,106,168
+Tera Ban Jaunga,Energetic,Night,Workout,0.74,115,169
+Je Chhau Timi - Sushant KC,Energetic,Evening,Workout,0.8,85,170
+Je Chhau Timi - Sushant KC,Sad,Night,Workout,0.65,86,171
+Maya Pirati - Swoopna Suman,Energetic,Morning,Studying,0.6,106,172
+Shayad,Happy,Evening,Workout,0.64,70,173
+Senorita,Energetic,Evening,Workout,0.78,98,174
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Morning,Chilling,0.31,87,175
+Tera Ban Jaunga,Sad,Night,Studying,0.53,95,176
+Shape of You,Calm,Evening,Chilling,0.75,73,177
+Sannani - VTEN,Sad,Morning,Studying,0.96,73,178
+Shayad,Happy,Evening,Relaxing,0.62,124,179
+Umer Jasto - Neetesh Jung Kunwar,Calm,Afternoon,Chilling,0.86,122,180
+Yo Mann Ta Mero Nepali Ho,Sad,Afternoon,Chilling,0.63,75,181
+Tere Vaaste - Zara Hatke Zara Bachke,Calm,Evening,Studying,0.83,80,182
+Memories,Calm,Evening,Chilling,0.38,99,183
+Apna Bana Le - Bhediya,Sad,Night,Workout,0.54,73,184
+Sannani - VTEN,Energetic,Afternoon,Relaxing,0.36,71,185
+Bekhayali,Calm,Morning,Workout,0.95,120,186
+Perfect,Calm,Night,Workout,0.92,74,187
+Tum Hi Ho,Calm,Afternoon,Chilling,0.37,101,188
+Timi Nai Hau,Happy,Afternoon,Workout,0.39,94,189
+Memories,Calm,Evening,Relaxing,0.63,65,190
+Bekhayali,Happy,Morning,Relaxing,0.73,124,191
+Shayad,Energetic,Night,Studying,0.54,79,192
+Pasoori Nu - Satyaprem Ki Katha,Calm,Evening,Workout,0.62,90,193
+Bekhayali,Energetic,Night,Studying,0.92,73,194
+Memories,Energetic,Morning,Workout,0.44,101,195
+Tere Vaaste - Zara Hatke Zara Bachke,Calm,Afternoon,Studying,0.79,97,196
+Paint The Town Red - Doja Cat,Energetic,Evening,Relaxing,0.51,109,197
+Kal Ho Naa Ho,Happy,Morning,Workout,0.66,76,198
+Saili,Energetic,Evening,Workout,0.94,116,199
+Apna Bana Le - Bhediya,Sad,Evening,Relaxing,0.35,102,200
+Shape of You,Sad,Morning,Workout,0.49,64,201
+Sa Karnali,Happy,Night,Workout,0.36,87,202
+Maya Pirati - Swoopna Suman,Happy,Afternoon,Relaxing,0.91,111,203
+Sa Karnali,Calm,Evening,Chilling,1.0,114,204
+Teenpatey - Tribal Rain,Calm,Afternoon,Chilling,0.87,96,205
+Saili,Calm,Afternoon,Chilling,0.61,62,206
+As It Was - Harry Styles,Happy,Night,Workout,0.99,82,207
+Senorita,Sad,Morning,Chilling,0.7,74,208
+Saili,Calm,Morning,Relaxing,0.78,127,209
+Tere Vaaste - Zara Hatke Zara Bachke,Happy,Evening,Workout,0.68,95,210
+Teenpatey - Tribal Rain,Happy,Night,Relaxing,0.73,129,211
+Blinding Lights,Calm,Evening,Studying,0.92,130,212
+Calm Down - Rema,Calm,Afternoon,Relaxing,0.63,121,213
+Saili,Sad,Morning,Workout,0.57,121,214
+Dance The Night - Dua Lipa,Energetic,Evening,Relaxing,0.54,61,215
+Bekhayali,Calm,Afternoon,Chilling,1.0,129,216
+Saili,Calm,Night,Studying,0.58,74,217
+Sannani - VTEN,Energetic,Morning,Chilling,0.6,65,218
+Yo Mann Ta Mero Nepali Ho,Happy,Evening,Chilling,0.64,66,219
+Teenpatey - Tribal Rain,Calm,Morning,Workout,0.42,116,220
+Apna Bana Le - Bhediya,Energetic,Morning,Relaxing,0.39,121,221
+Farki Farki - Rohit John Chhetri,Sad,Evening,Workout,0.37,77,222
+Shayad,Sad,Morning,Chilling,0.67,62,223
+Maya Pirati - Swoopna Suman,Sad,Night,Chilling,0.4,100,224
+Perfect,Happy,Evening,Relaxing,0.36,93,225
+Yo Mann Ta Mero Nepali Ho,Energetic,Night,Chilling,0.42,76,226
+Tera Ban Jaunga,Sad,Night,Studying,0.4,87,227
+Kal Ho Naa Ho,Energetic,Night,Chilling,0.58,104,228
+Memories,Happy,Night,Chilling,0.94,82,229
+Calm Down - Rema,Energetic,Afternoon,Chilling,0.4,82,230
+Laija Re,Sad,Night,Chilling,0.86,100,231
+Perfect,Happy,Night,Chilling,0.76,82,232
+Dance The Night - Dua Lipa,Calm,Evening,Studying,0.66,95,233
+Perfect,Energetic,Evening,Chilling,0.45,71,234
+Timi Nai Hau,Happy,Morning,Chilling,0.94,87,235
+Senorita,Energetic,Evening,Relaxing,0.64,72,236
+Shayad,Calm,Evening,Chilling,0.38,101,237
+Senorita,Sad,Afternoon,Chilling,0.89,126,238
+Timi Nai Hau,Energetic,Evening,Chilling,0.43,90,239
+Tera Ban Jaunga,Happy,Night,Studying,0.82,125,240
+Kesariya - Brahmastra,Happy,Afternoon,Relaxing,0.71,66,241
+Sannani - VTEN,Calm,Night,Workout,0.35,106,242
+Laija Re,Happy,Night,Studying,0.98,81,243
+As It Was - Harry Styles,Happy,Afternoon,Chilling,0.95,117,244
+Calm Down - Rema,Calm,Morning,Studying,0.88,104,245
+As It Was - Harry Styles,Sad,Evening,Workout,0.57,100,246
+Unholy - Sam Smith,Sad,Afternoon,Studying,0.34,85,247
+Tum Hi Ho,Calm,Night,Relaxing,0.86,78,248
+Calm Down - Rema,Happy,Afternoon,Relaxing,0.4,116,249
+As It Was - Harry Styles,Calm,Morning,Studying,0.39,128,250
+Farki Farki - Rohit John Chhetri,Sad,Afternoon,Studying,0.75,95,251
+Kesariya - Brahmastra,Sad,Night,Workout,0.88,101,252
+Laija Re,Sad,Evening,Studying,0.52,116,253
+Laija Re,Happy,Evening,Relaxing,0.35,128,254
+Apna Bana Le - Bhediya,Calm,Afternoon,Studying,0.59,93,255
+Dance The Night - Dua Lipa,Sad,Afternoon,Relaxing,0.99,84,256
+Paint The Town Red - Doja Cat,Happy,Morning,Relaxing,0.78,87,257
+Paint The Town Red - Doja Cat,Sad,Morning,Relaxing,0.32,67,258
+Dance The Night - Dua Lipa,Sad,Afternoon,Chilling,0.69,85,259
+Pasoori Nu - Satyaprem Ki Katha,Sad,Night,Workout,0.32,112,260
+Tum Hi Ho,Sad,Night,Chilling,0.63,60,261
+Kesariya - Brahmastra,Sad,Evening,Studying,0.53,64,262
+Saili,Calm,Night,Workout,0.62,127,263
+Jhoome Jo Pathaan - Pathaan,Sad,Evening,Workout,0.41,76,264
+Unholy - Sam Smith,Energetic,Afternoon,Chilling,0.96,130,265
+Memories,Sad,Afternoon,Relaxing,0.6,62,266
+Teenpatey - Tribal Rain,Calm,Evening,Chilling,0.81,113,267
+Memories,Calm,Afternoon,Chilling,0.84,62,268
+Bekhayali,Energetic,Night,Studying,0.95,108,269
+Kal Ho Naa Ho,Calm,Afternoon,Workout,0.9,95,270
+Kal Ho Naa Ho,Sad,Afternoon,Chilling,0.65,99,271
+Yo Mann Ta Mero Nepali Ho,Energetic,Morning,Studying,0.57,101,272
+Kal Ho Naa Ho,Calm,Afternoon,Studying,0.78,115,273
+Calm Down - Rema,Calm,Morning,Chilling,0.59,61,274
+Saili,Energetic,Afternoon,Workout,0.62,106,275
+Maya Pirati - Swoopna Suman,Energetic,Afternoon,Studying,0.94,94,276
+Bekhayali,Sad,Evening,Workout,0.59,81,277
+Unholy - Sam Smith,Sad,Night,Chilling,0.39,108,278
+Farki Farki - Rohit John Chhetri,Energetic,Evening,Workout,0.91,69,279
+Shape of You,Energetic,Afternoon,Chilling,0.66,110,280
+Timi Nai Hau,Happy,Night,Relaxing,0.51,76,281
+Saili,Happy,Afternoon,Studying,0.97,106,282
+Timi Nai Hau,Energetic,Night,Studying,0.56,116,283
+Shayad,Sad,Night,Relaxing,0.47,117,284
+Farki Farki - Rohit John Chhetri,Energetic,Morning,Studying,0.6,126,285
+Pasoori Nu - Satyaprem Ki Katha,Calm,Night,Relaxing,0.36,71,286
+Tere Vaaste - Zara Hatke Zara Bachke,Happy,Evening,Chilling,0.94,90,287
+Paint The Town Red - Doja Cat,Sad,Night,Relaxing,0.33,128,288
+Je Chhau Timi - Sushant KC,Happy,Morning,Studying,0.41,100,289
+Pasoori Nu - Satyaprem Ki Katha,Sad,Evening,Chilling,0.42,75,290
+Tere Vaaste - Zara Hatke Zara Bachke,Energetic,Morning,Workout,0.36,69,291
+Maya Pirati - Swoopna Suman,Calm,Morning,Relaxing,0.99,112,292
+Saili,Happy,Morning,Workout,0.4,122,293
+Calm Down - Rema,Energetic,Evening,Studying,0.33,64,294
+Laija Re,Energetic,Evening,Studying,0.77,74,295
+As It Was - Harry Styles,Calm,Evening,Chilling,0.81,91,296
+Flowers - Miley Cyrus,Happy,Morning,Studying,0.77,71,297
+As It Was - Harry Styles,Happy,Night,Chilling,0.37,124,298
+Apna Bana Le - Bhediya,Calm,Evening,Workout,0.88,67,299
+Apna Bana Le - Bhediya,Energetic,Afternoon,Relaxing,0.64,117,300
+Senorita,Calm,Night,Workout,0.78,60,301
+Maya Pirati - Swoopna Suman,Sad,Morning,Workout,0.77,111,302
+Kesariya - Brahmastra,Happy,Evening,Workout,0.59,129,303
+Tum Hi Ho,Calm,Morning,Studying,0.34,70,304
+Tera Ban Jaunga,Energetic,Evening,Studying,0.35,67,305
+Farki Farki - Rohit John Chhetri,Sad,Afternoon,Workout,0.67,90,306
+Kesariya - Brahmastra,Calm,Evening,Chilling,0.56,83,307
+Paint The Town Red - Doja Cat,Happy,Afternoon,Workout,0.89,61,308
+Timi Nai Hau,Sad,Night,Studying,0.63,79,309
+Bekhayali,Energetic,Morning,Chilling,0.88,94,310
+Saili,Energetic,Night,Chilling,0.82,102,311
+Anti-Hero - Taylor Swift,Happy,Morning,Studying,0.36,118,312
+Flowers - Miley Cyrus,Sad,Night,Chilling,0.64,108,313
+Sa Karnali,Sad,Afternoon,Studying,0.34,125,314
+Umer Jasto - Neetesh Jung Kunwar,Happy,Evening,Studying,0.81,69,315
+Laija Re,Calm,Morning,Relaxing,0.75,118,316
+Paint The Town Red - Doja Cat,Calm,Night,Relaxing,0.41,65,317
+Kal Ho Naa Ho,Sad,Afternoon,Chilling,0.36,106,318
+Anti-Hero - Taylor Swift,Sad,Morning,Chilling,0.66,121,319
+Perfect,Energetic,Afternoon,Relaxing,0.83,77,320
+Shayad,Energetic,Afternoon,Workout,0.32,123,321
+Kal Ho Naa Ho,Happy,Evening,Workout,0.74,61,322
+Shape of You,Energetic,Evening,Workout,0.71,100,323
+Maya Pirati - Swoopna Suman,Calm,Evening,Relaxing,0.31,78,324
+Jhoome Jo Pathaan - Pathaan,Happy,Night,Relaxing,0.42,64,325
+Kesariya - Brahmastra,Energetic,Afternoon,Workout,0.85,113,326
+Bekhayali,Energetic,Evening,Workout,0.66,86,327
+Tere Vaaste - Zara Hatke Zara Bachke,Happy,Afternoon,Workout,0.85,97,328
+Sannani - VTEN,Energetic,Morning,Relaxing,0.93,101,329
+Sannani - VTEN,Sad,Morning,Chilling,0.89,117,330
+Dance The Night - Dua Lipa,Calm,Evening,Workout,0.76,90,331
+Flowers - Miley Cyrus,Happy,Night,Relaxing,0.83,103,332
+Laija Re,Calm,Evening,Chilling,0.34,129,333
+Senorita,Sad,Night,Relaxing,0.84,68,334
+Pasoori Nu - Satyaprem Ki Katha,Sad,Night,Relaxing,0.81,99,335
+As It Was - Harry Styles,Energetic,Evening,Workout,0.38,72,336
+Flowers - Miley Cyrus,Energetic,Morning,Workout,0.49,81,337
+Anti-Hero - Taylor Swift,Calm,Night,Chilling,0.53,64,338
+Perfect,Sad,Evening,Relaxing,0.72,92,339
+Tum Hi Ho,Happy,Evening,Chilling,0.54,71,340
+Tera Ban Jaunga,Sad,Night,Relaxing,0.74,70,341
+Shape of You,Calm,Morning,Chilling,0.81,115,342
+Senorita,Happy,Night,Chilling,0.83,81,343
+Je Chhau Timi - Sushant KC,Sad,Afternoon,Chilling,0.78,111,344
+Yo Mann Ta Mero Nepali Ho,Sad,Afternoon,Studying,0.5,84,345
+Umer Jasto - Neetesh Jung Kunwar,Sad,Evening,Workout,0.32,79,346
+Tera Ban Jaunga,Happy,Evening,Chilling,0.91,105,347
+Yo Mann Ta Mero Nepali Ho,Happy,Evening,Workout,0.94,65,348
+Paint The Town Red - Doja Cat,Sad,Evening,Studying,0.46,124,349
+Kal Ho Naa Ho,Happy,Afternoon,Relaxing,0.99,107,350
+Paint The Town Red - Doja Cat,Sad,Evening,Workout,0.58,81,351
+Sannani - VTEN,Happy,Evening,Workout,0.73,69,352
+Dance The Night - Dua Lipa,Calm,Night,Studying,0.8,88,353
+Sa Karnali,Calm,Morning,Chilling,0.56,80,354
+Calm Down - Rema,Sad,Evening,Workout,0.63,128,355
+Blinding Lights,Energetic,Afternoon,Workout,0.73,68,356
+Farki Farki - Rohit John Chhetri,Calm,Night,Studying,0.84,60,357
+Shayad,Sad,Night,Studying,0.93,61,358
+Dance The Night - Dua Lipa,Happy,Night,Relaxing,0.56,122,359
+Heeriye - Jasleen Royal,Happy,Afternoon,Workout,0.37,121,360
+Sannani - VTEN,Calm,Night,Relaxing,0.75,96,361
+Tera Ban Jaunga,Energetic,Morning,Chilling,0.77,63,362
+As It Was - Harry Styles,Energetic,Evening,Workout,0.78,126,363
+Saili,Sad,Afternoon,Chilling,0.52,120,364
+Shape of You,Calm,Afternoon,Chilling,0.95,129,365
+Calm Down - Rema,Happy,Afternoon,Workout,0.47,128,366
+Unholy - Sam Smith,Calm,Evening,Relaxing,0.45,80,367
+Jhoome Jo Pathaan - Pathaan,Happy,Morning,Chilling,0.34,109,368
+Sa Karnali,Happy,Evening,Relaxing,0.95,127,369
+Jhoome Jo Pathaan - Pathaan,Calm,Night,Chilling,0.64,101,370
+Calm Down - Rema,Sad,Afternoon,Relaxing,0.47,81,371
+Kesariya - Brahmastra,Calm,Evening,Chilling,0.84,116,372
+Jhoome Jo Pathaan - Pathaan,Happy,Afternoon,Chilling,0.89,94,373
+Bekhayali,Happy,Morning,Chilling,0.88,67,374
+Heeriye - Jasleen Royal,Sad,Night,Workout,0.52,119,375
+Apna Bana Le - Bhediya,Happy,Night,Relaxing,0.7,117,376
+Shayad,Calm,Morning,Studying,0.51,130,377
+Memories,Sad,Afternoon,Relaxing,0.98,101,378
+Je Chhau Timi - Sushant KC,Calm,Morning,Studying,0.94,128,379
+Apna Bana Le - Bhediya,Calm,Evening,Studying,0.83,128,380
+Tere Vaaste - Zara Hatke Zara Bachke,Energetic,Evening,Workout,0.42,66,381
+Sa Karnali,Sad,Morning,Studying,0.57,123,382
+Memories,Energetic,Morning,Workout,0.38,78,383
+Umer Jasto - Neetesh Jung Kunwar,Sad,Afternoon,Chilling,0.83,81,384
+Tera Ban Jaunga,Energetic,Afternoon,Studying,0.37,63,385
+Heeriye - Jasleen Royal,Calm,Evening,Studying,0.5,119,386
+Paint The Town Red - Doja Cat,Happy,Evening,Studying,0.42,124,387
+Tera Ban Jaunga,Sad,Afternoon,Workout,0.32,104,388
+Timi Nai Hau,Energetic,Night,Studying,0.43,86,389
+Sa Karnali,Sad,Night,Studying,0.98,61,390
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Afternoon,Studying,0.4,97,391
+Flowers - Miley Cyrus,Calm,Night,Chilling,0.62,88,392
+Sannani - VTEN,Sad,Morning,Chilling,0.57,106,393
+Pasoori Nu - Satyaprem Ki Katha,Happy,Morning,Relaxing,0.89,114,394
+Je Chhau Timi - Sushant KC,Calm,Afternoon,Workout,0.75,87,395
+Perfect,Sad,Night,Studying,0.49,75,396
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Night,Workout,0.9,69,397
+Shayad,Energetic,Evening,Workout,0.85,83,398
+Tera Ban Jaunga,Happy,Night,Chilling,0.85,110,399
+Bekhayali,Calm,Afternoon,Studying,0.75,87,400
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Evening,Relaxing,0.88,70,401
+Farki Farki - Rohit John Chhetri,Sad,Night,Workout,0.83,62,402
+Memories,Energetic,Evening,Workout,0.84,83,403
+Memories,Energetic,Morning,Chilling,0.57,106,404
+Je Chhau Timi - Sushant KC,Happy,Afternoon,Studying,0.75,129,405
+Maya Pirati - Swoopna Suman,Energetic,Afternoon,Chilling,0.61,64,406
+Memories,Sad,Afternoon,Relaxing,0.78,94,407
+Dance The Night - Dua Lipa,Sad,Afternoon,Relaxing,0.54,102,408
+Farki Farki - Rohit John Chhetri,Happy,Morning,Studying,0.57,125,409
+Maya Pirati - Swoopna Suman,Sad,Morning,Relaxing,0.5,127,410
+Pasoori Nu - Satyaprem Ki Katha,Happy,Evening,Chilling,0.61,102,411
+Memories,Sad,Evening,Chilling,0.41,93,412
+Kal Ho Naa Ho,Energetic,Morning,Relaxing,0.38,119,413
+Pasoori Nu - Satyaprem Ki Katha,Happy,Night,Studying,0.87,60,414
+Jhoome Jo Pathaan - Pathaan,Calm,Night,Workout,0.61,106,415
+Laija Re,Sad,Evening,Chilling,0.42,83,416
+Sa Karnali,Energetic,Night,Relaxing,0.72,60,417
+Farki Farki - Rohit John Chhetri,Energetic,Evening,Studying,0.36,71,418
+Umer Jasto - Neetesh Jung Kunwar,Happy,Evening,Studying,0.57,95,419
+Timi Nai Hau,Sad,Morning,Chilling,0.84,118,420
+Timi Nai Hau,Happy,Evening,Studying,0.4,66,421
+Umer Jasto - Neetesh Jung Kunwar,Calm,Afternoon,Chilling,0.59,95,422
+Kal Ho Naa Ho,Sad,Morning,Studying,0.52,62,423
+Bekhayali,Sad,Night,Relaxing,0.37,79,424
+Dance The Night - Dua Lipa,Energetic,Night,Workout,0.69,118,425
+Tera Ban Jaunga,Energetic,Afternoon,Relaxing,0.58,70,426
+Calm Down - Rema,Calm,Night,Chilling,0.32,79,427
+Heeriye - Jasleen Royal,Happy,Night,Relaxing,0.49,75,428
+Heeriye - Jasleen Royal,Energetic,Morning,Studying,0.59,120,429
+Umer Jasto - Neetesh Jung Kunwar,Calm,Morning,Studying,0.68,73,430
+Unholy - Sam Smith,Sad,Evening,Relaxing,0.68,74,431
+Shayad,Sad,Morning,Studying,0.35,75,432
+Calm Down - Rema,Sad,Night,Workout,1.0,108,433
+Kal Ho Naa Ho,Sad,Evening,Studying,0.66,65,434
+Kesariya - Brahmastra,Calm,Morning,Studying,0.44,124,435
+Apna Bana Le - Bhediya,Energetic,Morning,Workout,0.7,103,436
+Bekhayali,Calm,Evening,Studying,0.66,79,437
+Timi Nai Hau,Energetic,Morning,Relaxing,0.66,63,438
+Laija Re,Happy,Night,Chilling,0.5,87,439
+Memories,Energetic,Night,Studying,0.45,86,440
+Sa Karnali,Calm,Afternoon,Workout,0.88,97,441
+Shape of You,Energetic,Night,Studying,0.31,111,442
+Senorita,Happy,Afternoon,Studying,0.61,111,443
+Perfect,Energetic,Evening,Workout,0.57,96,444
+Flowers - Miley Cyrus,Happy,Evening,Studying,0.92,62,445
+Yo Mann Ta Mero Nepali Ho,Sad,Evening,Workout,0.79,95,446
+Kal Ho Naa Ho,Sad,Morning,Workout,0.8,125,447
+Laija Re,Sad,Afternoon,Studying,0.77,105,448
+Tum Hi Ho,Energetic,Morning,Studying,0.8,77,449
+Calm Down - Rema,Energetic,Evening,Studying,0.61,114,450
+Teenpatey - Tribal Rain,Sad,Morning,Relaxing,0.62,69,451
+Laija Re,Energetic,Afternoon,Chilling,0.32,108,452
+Flowers - Miley Cyrus,Calm,Afternoon,Chilling,0.41,119,453
+Maya Pirati - Swoopna Suman,Happy,Evening,Workout,0.57,124,454
+Bekhayali,Calm,Morning,Relaxing,0.67,97,455
+Saili,Happy,Evening,Workout,0.84,116,456
+Dance The Night - Dua Lipa,Happy,Night,Chilling,0.94,94,457
+Perfect,Calm,Afternoon,Workout,0.79,82,458
+Bekhayali,Energetic,Night,Studying,0.73,127,459
+Heeriye - Jasleen Royal,Sad,Evening,Relaxing,0.54,116,460
+Sa Karnali,Sad,Afternoon,Chilling,0.5,61,461
+Perfect,Sad,Morning,Relaxing,0.75,90,462
+Apna Bana Le - Bhediya,Energetic,Afternoon,Workout,0.65,129,463
+Shape of You,Sad,Night,Studying,0.98,62,464
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Afternoon,Chilling,0.99,113,465
+Timi Nai Hau,Calm,Night,Relaxing,0.63,91,466
+Heeriye - Jasleen Royal,Happy,Evening,Chilling,0.67,104,467
+Tere Vaaste - Zara Hatke Zara Bachke,Energetic,Afternoon,Workout,0.8,62,468
+Maya Pirati - Swoopna Suman,Sad,Afternoon,Workout,0.99,63,469
+Teenpatey - Tribal Rain,Sad,Night,Studying,0.53,129,470
+Kesariya - Brahmastra,Calm,Morning,Relaxing,0.71,109,471
+Je Chhau Timi - Sushant KC,Happy,Night,Workout,0.99,86,472
+Shayad,Energetic,Afternoon,Chilling,0.42,76,473
+As It Was - Harry Styles,Happy,Night,Studying,0.74,65,474
+Yo Mann Ta Mero Nepali Ho,Calm,Night,Relaxing,0.51,66,475
+Apna Bana Le - Bhediya,Calm,Evening,Workout,0.97,120,476
+Anti-Hero - Taylor Swift,Energetic,Afternoon,Chilling,0.35,60,477
+Tere Vaaste - Zara Hatke Zara Bachke,Happy,Afternoon,Chilling,0.7,84,478
+Apna Bana Le - Bhediya,Happy,Night,Relaxing,0.83,81,479
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Morning,Studying,0.57,61,480
+Perfect,Calm,Morning,Relaxing,0.94,128,481
+Kal Ho Naa Ho,Energetic,Morning,Workout,0.6,100,482
+Shape of You,Calm,Afternoon,Chilling,0.43,102,483
+Yo Mann Ta Mero Nepali Ho,Sad,Evening,Relaxing,0.82,110,484
+Unholy - Sam Smith,Calm,Morning,Relaxing,0.62,73,485
+Bekhayali,Happy,Night,Workout,0.71,85,486
+Sannani - VTEN,Happy,Morning,Chilling,0.76,112,487
+Blinding Lights,Happy,Night,Studying,0.6,84,488
+Teenpatey - Tribal Rain,Energetic,Morning,Relaxing,0.77,65,489
+Apna Bana Le - Bhediya,Energetic,Evening,Workout,0.5,79,490
+Dance The Night - Dua Lipa,Happy,Afternoon,Workout,0.7,117,491
+Calm Down - Rema,Happy,Morning,Workout,0.95,90,492
+Saili,Energetic,Afternoon,Studying,0.79,128,493
+As It Was - Harry Styles,Happy,Night,Chilling,0.57,78,494
+Teenpatey - Tribal Rain,Happy,Morning,Relaxing,0.35,125,495
+Bekhayali,Energetic,Night,Relaxing,0.67,71,496
+Maya Pirati - Swoopna Suman,Sad,Night,Workout,0.49,95,497
+Jhoome Jo Pathaan - Pathaan,Sad,Afternoon,Studying,0.89,72,498
+Yo Mann Ta Mero Nepali Ho,Happy,Night,Studying,0.8,126,499
+Memories,Sad,Night,Chilling,0.52,66,500
+Heeriye - Jasleen Royal,Sad,Morning,Chilling,0.81,71,501
+Shayad,Happy,Night,Studying,0.41,110,502
+Tera Ban Jaunga,Energetic,Afternoon,Studying,0.58,128,503
+Jhoome Jo Pathaan - Pathaan,Energetic,Morning,Relaxing,0.78,117,504
+Sannani - VTEN,Happy,Afternoon,Workout,0.54,89,505
+Anti-Hero - Taylor Swift,Sad,Afternoon,Relaxing,0.92,68,506
+Sa Karnali,Calm,Night,Relaxing,0.68,98,507
+Kesariya - Brahmastra,Calm,Afternoon,Relaxing,0.59,60,508
+Je Chhau Timi - Sushant KC,Sad,Afternoon,Studying,0.92,102,509
+Tera Ban Jaunga,Happy,Evening,Workout,0.36,99,510
+Blinding Lights,Sad,Night,Chilling,0.84,68,511
+Teenpatey - Tribal Rain,Sad,Morning,Relaxing,0.57,121,512
+Laija Re,Happy,Night,Chilling,0.82,99,513
+Sannani - VTEN,Energetic,Afternoon,Relaxing,0.45,104,514
+Blinding Lights,Calm,Afternoon,Workout,0.63,100,515
+Blinding Lights,Happy,Morning,Workout,0.71,97,516
+Flowers - Miley Cyrus,Happy,Afternoon,Chilling,0.91,113,517
+Teenpatey - Tribal Rain,Energetic,Afternoon,Workout,0.74,130,518
+Timi Nai Hau,Calm,Evening,Studying,0.48,69,519
+Tera Ban Jaunga,Calm,Night,Studying,0.44,113,520
+Sa Karnali,Energetic,Evening,Studying,0.42,128,521
+Sa Karnali,Sad,Morning,Studying,0.82,95,522
+Tum Hi Ho,Energetic,Morning,Relaxing,0.63,79,523
+Unholy - Sam Smith,Happy,Evening,Chilling,0.69,100,524
+Unholy - Sam Smith,Happy,Morning,Chilling,0.41,64,525
+Jhoome Jo Pathaan - Pathaan,Calm,Afternoon,Chilling,0.73,87,526
+Pasoori Nu - Satyaprem Ki Katha,Happy,Afternoon,Workout,0.47,81,527
+Tere Vaaste - Zara Hatke Zara Bachke,Calm,Evening,Workout,0.55,101,528
+Shape of You,Sad,Morning,Studying,0.66,71,529
+Paint The Town Red - Doja Cat,Calm,Afternoon,Relaxing,0.67,124,530
+Shayad,Energetic,Afternoon,Relaxing,0.52,99,531
+Senorita,Calm,Evening,Relaxing,0.44,103,532
+Heeriye - Jasleen Royal,Sad,Morning,Workout,0.46,78,533
+Timi Nai Hau,Energetic,Morning,Chilling,0.52,109,534
+Bekhayali,Energetic,Evening,Relaxing,0.46,86,535
+Paint The Town Red - Doja Cat,Happy,Night,Relaxing,0.48,76,536
+Je Chhau Timi - Sushant KC,Sad,Evening,Chilling,0.7,75,537
+Shayad,Happy,Evening,Studying,0.64,77,538
+Dance The Night - Dua Lipa,Sad,Morning,Chilling,0.35,103,539
+Tera Ban Jaunga,Happy,Afternoon,Studying,0.54,126,540
+Timi Nai Hau,Sad,Morning,Studying,0.79,60,541
+Paint The Town Red - Doja Cat,Happy,Night,Chilling,0.7,65,542
+Perfect,Happy,Morning,Relaxing,0.52,101,543
+Sa Karnali,Sad,Evening,Chilling,0.41,105,544
+Dance The Night - Dua Lipa,Happy,Afternoon,Workout,0.57,96,545
+Yo Mann Ta Mero Nepali Ho,Calm,Night,Relaxing,0.58,71,546
+Paint The Town Red - Doja Cat,Sad,Afternoon,Studying,0.42,104,547
+Bekhayali,Sad,Morning,Workout,0.78,97,548
+Tum Hi Ho,Energetic,Night,Workout,0.43,121,549
+Timi Nai Hau,Energetic,Afternoon,Chilling,0.75,76,550
+Je Chhau Timi - Sushant KC,Happy,Afternoon,Relaxing,0.71,115,551
+Tera Ban Jaunga,Energetic,Afternoon,Studying,0.36,102,552
+Bekhayali,Energetic,Afternoon,Chilling,0.9,88,553
+Sa Karnali,Happy,Afternoon,Relaxing,0.93,74,554
+Paint The Town Red - Doja Cat,Sad,Evening,Workout,0.89,65,555
+Kal Ho Naa Ho,Energetic,Evening,Chilling,0.56,94,556
+Je Chhau Timi - Sushant KC,Sad,Evening,Relaxing,0.75,82,557
+Senorita,Calm,Morning,Relaxing,0.39,84,558
+Shayad,Happy,Afternoon,Relaxing,0.84,120,559
+Apna Bana Le - Bhediya,Energetic,Evening,Relaxing,0.88,102,560
+As It Was - Harry Styles,Calm,Evening,Workout,0.51,77,561
+Blinding Lights,Calm,Evening,Studying,0.58,85,562
+Teenpatey - Tribal Rain,Energetic,Night,Chilling,0.98,113,563
+Shayad,Calm,Evening,Workout,0.47,103,564
+Perfect,Sad,Afternoon,Workout,0.91,68,565
+Heeriye - Jasleen Royal,Energetic,Night,Studying,0.84,67,566
+Paint The Town Red - Doja Cat,Calm,Morning,Workout,0.83,61,567
+Perfect,Happy,Morning,Workout,0.77,101,568
+Dance The Night - Dua Lipa,Sad,Afternoon,Workout,0.69,85,569
+As It Was - Harry Styles,Energetic,Evening,Studying,0.66,81,570
+Anti-Hero - Taylor Swift,Energetic,Evening,Relaxing,0.47,110,571
+Senorita,Sad,Night,Relaxing,0.78,129,572
+Sa Karnali,Happy,Afternoon,Workout,1.0,130,573
+Shape of You,Sad,Evening,Relaxing,1.0,67,574
+Teenpatey - Tribal Rain,Happy,Afternoon,Workout,0.51,121,575
+Unholy - Sam Smith,Happy,Afternoon,Relaxing,0.4,92,576
+Tum Hi Ho,Happy,Afternoon,Chilling,0.61,110,577
+Maya Pirati - Swoopna Suman,Energetic,Morning,Chilling,0.41,111,578
+Senorita,Calm,Evening,Relaxing,0.91,106,579
+Shape of You,Energetic,Morning,Studying,0.43,94,580
+Sa Karnali,Happy,Afternoon,Chilling,1.0,94,581
+Blinding Lights,Happy,Morning,Workout,0.38,81,582
+As It Was - Harry Styles,Happy,Afternoon,Workout,0.56,73,583
+Flowers - Miley Cyrus,Happy,Afternoon,Studying,0.88,107,584
+Maya Pirati - Swoopna Suman,Sad,Evening,Studying,0.46,76,585
+Calm Down - Rema,Calm,Night,Relaxing,0.63,125,586
+Shayad,Happy,Afternoon,Workout,0.94,95,587
+Paint The Town Red - Doja Cat,Sad,Evening,Studying,0.34,75,588
+Paint The Town Red - Doja Cat,Happy,Afternoon,Chilling,0.99,125,589
+Flowers - Miley Cyrus,Calm,Afternoon,Workout,0.88,102,590
+Yo Mann Ta Mero Nepali Ho,Calm,Afternoon,Studying,0.38,60,591
+Yo Mann Ta Mero Nepali Ho,Happy,Evening,Studying,0.59,60,592
+Maya Pirati - Swoopna Suman,Energetic,Morning,Studying,0.97,64,593
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Evening,Workout,0.33,84,594
+Sannani - VTEN,Happy,Evening,Relaxing,0.47,94,595
+Memories,Calm,Afternoon,Chilling,0.88,127,596
+Yo Mann Ta Mero Nepali Ho,Happy,Afternoon,Chilling,0.6,95,597
+Jhoome Jo Pathaan - Pathaan,Energetic,Evening,Workout,0.66,65,598
+Tere Vaaste - Zara Hatke Zara Bachke,Calm,Evening,Relaxing,0.43,90,599
+Apna Bana Le - Bhediya,Sad,Afternoon,Studying,0.63,109,600
+Maya Pirati - Swoopna Suman,Sad,Morning,Chilling,0.8,74,601
+Jhoome Jo Pathaan - Pathaan,Calm,Night,Studying,0.82,93,602
+Shape of You,Energetic,Evening,Chilling,0.88,125,603
+Apna Bana Le - Bhediya,Sad,Evening,Relaxing,0.43,66,604
+Kal Ho Naa Ho,Energetic,Evening,Studying,0.98,105,605
+Je Chhau Timi - Sushant KC,Calm,Morning,Relaxing,0.97,85,606
+Jhoome Jo Pathaan - Pathaan,Happy,Evening,Studying,0.95,103,607
+Blinding Lights,Sad,Afternoon,Chilling,0.62,68,608
+Maya Pirati - Swoopna Suman,Energetic,Night,Studying,0.66,82,609
+Pasoori Nu - Satyaprem Ki Katha,Calm,Evening,Workout,0.63,107,610
+Farki Farki - Rohit John Chhetri,Calm,Night,Relaxing,0.99,103,611
+Tere Vaaste - Zara Hatke Zara Bachke,Happy,Morning,Chilling,0.54,88,612
+Perfect,Sad,Afternoon,Relaxing,0.81,66,613
+Umer Jasto - Neetesh Jung Kunwar,Sad,Evening,Chilling,0.37,82,614
+Unholy - Sam Smith,Happy,Morning,Studying,0.8,130,615
+Memories,Happy,Afternoon,Studying,0.73,112,616
+Tum Hi Ho,Energetic,Morning,Studying,0.64,78,617
+Tera Ban Jaunga,Sad,Night,Chilling,0.46,95,618
+Heeriye - Jasleen Royal,Sad,Night,Relaxing,0.52,75,619
+Je Chhau Timi - Sushant KC,Calm,Afternoon,Workout,0.58,69,620
+Kal Ho Naa Ho,Calm,Morning,Chilling,0.67,126,621
+Blinding Lights,Energetic,Afternoon,Relaxing,0.57,91,622
+Tum Hi Ho,Energetic,Morning,Workout,0.87,108,623
+Blinding Lights,Energetic,Afternoon,Relaxing,0.96,79,624
+Farki Farki - Rohit John Chhetri,Calm,Evening,Chilling,0.82,113,625
+Je Chhau Timi - Sushant KC,Energetic,Afternoon,Chilling,0.48,78,626
+Teenpatey - Tribal Rain,Energetic,Evening,Relaxing,0.78,125,627
+Laija Re,Calm,Afternoon,Workout,0.57,60,628
+Heeriye - Jasleen Royal,Happy,Afternoon,Relaxing,0.45,99,629
+Tum Hi Ho,Calm,Morning,Studying,0.92,61,630
+Shayad,Energetic,Afternoon,Workout,0.32,130,631
+Pasoori Nu - Satyaprem Ki Katha,Sad,Night,Workout,0.86,73,632
+Paint The Town Red - Doja Cat,Sad,Night,Studying,0.34,70,633
+Kesariya - Brahmastra,Happy,Evening,Studying,0.53,115,634
+Timi Nai Hau,Sad,Morning,Studying,1.0,74,635
+Memories,Sad,Afternoon,Relaxing,0.54,84,636
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Evening,Studying,0.5,110,637
+Shayad,Energetic,Afternoon,Relaxing,0.78,84,638
+As It Was - Harry Styles,Happy,Afternoon,Studying,0.45,98,639
+Tera Ban Jaunga,Happy,Morning,Chilling,0.76,105,640
+Heeriye - Jasleen Royal,Energetic,Night,Workout,0.63,129,641
+Tum Hi Ho,Sad,Afternoon,Relaxing,0.56,115,642
+Perfect,Sad,Night,Relaxing,0.33,112,643
+Memories,Happy,Night,Workout,0.35,89,644
+Perfect,Sad,Morning,Workout,0.77,78,645
+Flowers - Miley Cyrus,Sad,Afternoon,Relaxing,0.7,76,646
+Maya Pirati - Swoopna Suman,Calm,Night,Chilling,0.52,97,647
+Flowers - Miley Cyrus,Happy,Morning,Chilling,0.47,111,648
+Paint The Town Red - Doja Cat,Happy,Morning,Studying,0.54,64,649
+Kal Ho Naa Ho,Sad,Night,Chilling,0.38,106,650
+Saili,Energetic,Morning,Relaxing,0.58,101,651
+Tum Hi Ho,Happy,Morning,Studying,0.72,83,652
+Senorita,Sad,Morning,Chilling,0.47,85,653
+Yo Mann Ta Mero Nepali Ho,Calm,Evening,Workout,0.81,60,654
+Saili,Calm,Afternoon,Relaxing,0.79,111,655
+Kesariya - Brahmastra,Happy,Afternoon,Studying,0.91,122,656
+Tere Vaaste - Zara Hatke Zara Bachke,Energetic,Afternoon,Chilling,0.38,79,657
+Teenpatey - Tribal Rain,Sad,Evening,Relaxing,0.35,112,658
+Apna Bana Le - Bhediya,Sad,Night,Chilling,0.63,114,659
+Jhoome Jo Pathaan - Pathaan,Happy,Afternoon,Workout,0.31,71,660
+Jhoome Jo Pathaan - Pathaan,Sad,Afternoon,Workout,0.78,65,661
+Teenpatey - Tribal Rain,Happy,Evening,Workout,0.49,106,662
+Tera Ban Jaunga,Happy,Afternoon,Workout,0.52,65,663
+As It Was - Harry Styles,Happy,Night,Workout,0.78,70,664
+Sannani - VTEN,Sad,Morning,Chilling,0.83,68,665
+Anti-Hero - Taylor Swift,Sad,Evening,Relaxing,0.31,120,666
+As It Was - Harry Styles,Happy,Evening,Studying,0.96,62,667
+Saili,Calm,Afternoon,Studying,0.72,88,668
+Flowers - Miley Cyrus,Calm,Morning,Workout,0.43,116,669
+Sa Karnali,Energetic,Morning,Chilling,0.62,117,670
+Heeriye - Jasleen Royal,Happy,Evening,Chilling,0.75,77,671
+As It Was - Harry Styles,Calm,Evening,Workout,0.7,93,672
+Kal Ho Naa Ho,Happy,Morning,Studying,0.34,126,673
+Shayad,Energetic,Evening,Studying,0.61,117,674
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Afternoon,Studying,0.6,92,675
+Kesariya - Brahmastra,Calm,Morning,Relaxing,0.68,72,676
+Saili,Happy,Morning,Workout,0.43,72,677
+Tum Hi Ho,Happy,Morning,Workout,0.8,109,678
+Laija Re,Sad,Night,Chilling,0.36,113,679
+Senorita,Happy,Night,Relaxing,0.58,65,680
+Je Chhau Timi - Sushant KC,Calm,Night,Workout,0.4,90,681
+Dance The Night - Dua Lipa,Happy,Night,Studying,0.43,119,682
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Night,Chilling,0.57,129,683
+Calm Down - Rema,Energetic,Night,Relaxing,0.41,110,684
+Blinding Lights,Calm,Morning,Relaxing,0.54,95,685
+Paint The Town Red - Doja Cat,Sad,Afternoon,Workout,0.61,76,686
+Dance The Night - Dua Lipa,Energetic,Night,Relaxing,0.82,104,687
+Apna Bana Le - Bhediya,Energetic,Morning,Relaxing,0.54,85,688
+Tum Hi Ho,Energetic,Afternoon,Chilling,0.6,121,689
+Calm Down - Rema,Energetic,Evening,Chilling,0.86,68,690
+Shape of You,Happy,Evening,Workout,0.3,84,691
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Night,Relaxing,0.59,108,692
+Apna Bana Le - Bhediya,Energetic,Evening,Chilling,0.95,113,693
+Heeriye - Jasleen Royal,Energetic,Night,Workout,0.69,109,694
+Shayad,Energetic,Morning,Studying,0.54,81,695
+Pasoori Nu - Satyaprem Ki Katha,Happy,Afternoon,Studying,0.58,64,696
+Shayad,Energetic,Evening,Chilling,0.55,89,697
+Perfect,Sad,Morning,Chilling,0.4,127,698
+Shayad,Energetic,Night,Workout,0.58,79,699
+Blinding Lights,Happy,Evening,Chilling,0.62,112,700
+Saili,Sad,Evening,Studying,0.87,106,701
+Farki Farki - Rohit John Chhetri,Calm,Morning,Workout,0.71,112,702
+Kesariya - Brahmastra,Sad,Afternoon,Studying,0.96,103,703
+Paint The Town Red - Doja Cat,Sad,Night,Studying,0.46,67,704
+Jhoome Jo Pathaan - Pathaan,Energetic,Morning,Workout,0.64,65,705
+As It Was - Harry Styles,Sad,Evening,Workout,0.98,60,706
+Saili,Happy,Evening,Chilling,0.36,115,707
+Jhoome Jo Pathaan - Pathaan,Calm,Afternoon,Relaxing,0.54,93,708
+Farki Farki - Rohit John Chhetri,Calm,Evening,Workout,0.94,84,709
+Sa Karnali,Energetic,Evening,Studying,0.52,103,710
+Sannani - VTEN,Happy,Morning,Chilling,0.67,82,711
+Kal Ho Naa Ho,Happy,Afternoon,Workout,0.31,126,712
+Yo Mann Ta Mero Nepali Ho,Energetic,Evening,Studying,0.79,95,713
+Kal Ho Naa Ho,Happy,Afternoon,Workout,0.77,90,714
+Kesariya - Brahmastra,Happy,Night,Workout,0.35,98,715
+Sannani - VTEN,Sad,Night,Chilling,0.53,121,716
+Dance The Night - Dua Lipa,Sad,Evening,Workout,0.64,87,717
+Kesariya - Brahmastra,Energetic,Evening,Relaxing,0.75,123,718
+Laija Re,Energetic,Morning,Workout,0.96,92,719
+Memories,Sad,Morning,Workout,0.82,75,720
+Memories,Sad,Morning,Relaxing,0.4,86,721
+Timi Nai Hau,Happy,Afternoon,Relaxing,0.87,86,722
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Morning,Relaxing,0.91,108,723
+Sa Karnali,Sad,Morning,Studying,0.74,107,724
+Jhoome Jo Pathaan - Pathaan,Sad,Night,Studying,0.59,75,725
+Blinding Lights,Calm,Morning,Chilling,0.45,128,726
+Je Chhau Timi - Sushant KC,Happy,Morning,Relaxing,0.4,127,727
+Blinding Lights,Sad,Evening,Workout,0.32,79,728
+Kal Ho Naa Ho,Happy,Evening,Studying,0.72,73,729
+Unholy - Sam Smith,Happy,Afternoon,Chilling,0.93,79,730
+Kal Ho Naa Ho,Energetic,Evening,Workout,0.74,99,731
+Tum Hi Ho,Happy,Night,Studying,0.63,80,732
+Shape of You,Energetic,Night,Workout,0.98,98,733
+Sa Karnali,Happy,Afternoon,Workout,0.33,111,734
+Blinding Lights,Energetic,Morning,Studying,0.48,91,735
+Kal Ho Naa Ho,Calm,Evening,Studying,0.64,75,736
+Pasoori Nu - Satyaprem Ki Katha,Calm,Morning,Relaxing,0.69,96,737
+Perfect,Happy,Morning,Studying,0.92,88,738
+Heeriye - Jasleen Royal,Sad,Night,Studying,0.76,68,739
+Memories,Calm,Evening,Studying,0.57,79,740
+Maya Pirati - Swoopna Suman,Happy,Morning,Chilling,0.49,75,741
+Teenpatey - Tribal Rain,Energetic,Afternoon,Chilling,0.88,104,742
+Flowers - Miley Cyrus,Sad,Morning,Studying,0.75,105,743
+Paint The Town Red - Doja Cat,Sad,Evening,Studying,0.33,122,744
+Memories,Sad,Morning,Relaxing,0.68,121,745
+Dance The Night - Dua Lipa,Happy,Evening,Relaxing,0.81,75,746
+Senorita,Happy,Night,Chilling,0.43,60,747
+Kesariya - Brahmastra,Sad,Morning,Chilling,0.78,67,748
+Tere Vaaste - Zara Hatke Zara Bachke,Happy,Evening,Relaxing,0.59,91,749
+Sa Karnali,Happy,Evening,Studying,0.84,88,750
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Night,Workout,0.94,95,751
+Teenpatey - Tribal Rain,Sad,Evening,Chilling,0.92,92,752
+Kesariya - Brahmastra,Energetic,Morning,Chilling,0.74,69,753
+Sa Karnali,Energetic,Afternoon,Chilling,0.33,67,754
+Perfect,Sad,Afternoon,Workout,0.32,103,755
+Saili,Energetic,Afternoon,Chilling,0.56,82,756
+Kal Ho Naa Ho,Calm,Evening,Chilling,0.94,83,757
+Blinding Lights,Energetic,Afternoon,Studying,0.59,98,758
+Laija Re,Energetic,Morning,Chilling,0.88,94,759
+Flowers - Miley Cyrus,Calm,Morning,Relaxing,0.34,125,760
+Calm Down - Rema,Energetic,Evening,Studying,0.59,96,761
+Flowers - Miley Cyrus,Calm,Morning,Relaxing,0.66,108,762
+Pasoori Nu - Satyaprem Ki Katha,Energetic,Night,Workout,0.85,110,763
+Saili,Calm,Night,Workout,0.4,126,764
+Blinding Lights,Calm,Morning,Workout,0.88,77,765
+Perfect,Happy,Afternoon,Studying,0.67,97,766
+Heeriye - Jasleen Royal,Energetic,Evening,Workout,0.73,109,767
+Kal Ho Naa Ho,Energetic,Night,Relaxing,0.72,96,768
+Shape of You,Happy,Morning,Chilling,0.51,120,769
+Saili,Calm,Morning,Chilling,0.58,129,770
+Paint The Town Red - Doja Cat,Happy,Night,Relaxing,0.9,118,771
+Perfect,Sad,Evening,Chilling,0.5,129,772
+Dance The Night - Dua Lipa,Energetic,Evening,Chilling,0.66,85,773
+Kal Ho Naa Ho,Happy,Afternoon,Workout,0.81,107,774
+As It Was - Harry Styles,Sad,Afternoon,Workout,0.76,128,775
+Flowers - Miley Cyrus,Happy,Evening,Workout,0.9,107,776
+Memories,Calm,Afternoon,Relaxing,0.51,100,777
+As It Was - Harry Styles,Sad,Night,Relaxing,0.96,67,778
+Unholy - Sam Smith,Sad,Night,Studying,0.77,130,779
+Pasoori Nu - Satyaprem Ki Katha,Sad,Morning,Workout,0.91,74,780
+Sa Karnali,Happy,Evening,Studying,0.68,67,781
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Night,Chilling,0.36,64,782
+Maya Pirati - Swoopna Suman,Sad,Afternoon,Studying,0.37,89,783
+Dance The Night - Dua Lipa,Energetic,Afternoon,Chilling,0.41,101,784
+Saili,Happy,Night,Studying,0.35,94,785
+Calm Down - Rema,Happy,Night,Workout,0.44,85,786
+Yo Mann Ta Mero Nepali Ho,Energetic,Morning,Workout,0.86,130,787
+Calm Down - Rema,Calm,Night,Relaxing,0.9,107,788
+Bekhayali,Calm,Evening,Workout,0.95,104,789
+Tere Vaaste - Zara Hatke Zara Bachke,Energetic,Night,Relaxing,0.46,111,790
+Apna Bana Le - Bhediya,Energetic,Morning,Relaxing,0.76,104,791
+Kesariya - Brahmastra,Happy,Night,Chilling,0.45,111,792
+Sannani - VTEN,Calm,Morning,Studying,0.37,84,793
+Heeriye - Jasleen Royal,Energetic,Night,Chilling,0.83,98,794
+Jhoome Jo Pathaan - Pathaan,Sad,Evening,Chilling,0.33,130,795
+Tera Ban Jaunga,Sad,Evening,Studying,0.43,86,796
+Teenpatey - Tribal Rain,Happy,Night,Relaxing,0.55,73,797
+Jhoome Jo Pathaan - Pathaan,Energetic,Afternoon,Studying,0.55,120,798
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Evening,Studying,0.52,72,799
+Timi Nai Hau,Sad,Evening,Relaxing,0.62,61,800
+Laija Re,Calm,Evening,Workout,0.38,65,801
+Unholy - Sam Smith,Energetic,Morning,Relaxing,0.8,66,802
+Apna Bana Le - Bhediya,Energetic,Morning,Workout,0.34,64,803
+Dance The Night - Dua Lipa,Calm,Afternoon,Studying,0.33,130,804
+Heeriye - Jasleen Royal,Calm,Morning,Workout,0.37,112,805
+Calm Down - Rema,Energetic,Evening,Relaxing,0.38,96,806
+Yo Mann Ta Mero Nepali Ho,Calm,Night,Workout,0.54,126,807
+Timi Nai Hau,Energetic,Evening,Workout,0.31,115,808
+Heeriye - Jasleen Royal,Calm,Afternoon,Studying,0.67,83,809
+Apna Bana Le - Bhediya,Happy,Night,Studying,0.38,95,810
+Kesariya - Brahmastra,Calm,Afternoon,Chilling,0.67,92,811
+Saili,Energetic,Night,Studying,0.62,67,812
+Laija Re,Sad,Evening,Workout,0.32,113,813
+Tum Hi Ho,Energetic,Afternoon,Relaxing,0.93,73,814
+Timi Nai Hau,Sad,Morning,Studying,0.67,109,815
+Maya Pirati - Swoopna Suman,Energetic,Night,Relaxing,0.45,76,816
+Unholy - Sam Smith,Calm,Night,Studying,0.67,65,817
+Jhoome Jo Pathaan - Pathaan,Energetic,Night,Chilling,0.53,71,818
+Memories,Calm,Afternoon,Relaxing,0.31,69,819
+Perfect,Happy,Evening,Studying,0.74,63,820
+Shayad,Sad,Evening,Workout,0.37,129,821
+Sa Karnali,Sad,Evening,Relaxing,0.85,120,822
+Tum Hi Ho,Sad,Morning,Studying,1.0,62,823
+Flowers - Miley Cyrus,Happy,Night,Studying,0.81,73,824
+Paint The Town Red - Doja Cat,Energetic,Night,Studying,0.3,75,825
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Afternoon,Relaxing,0.97,91,826
+Tum Hi Ho,Happy,Morning,Chilling,0.33,67,827
+Apna Bana Le - Bhediya,Happy,Afternoon,Workout,0.83,83,828
+Anti-Hero - Taylor Swift,Calm,Evening,Studying,0.3,99,829
+Blinding Lights,Sad,Evening,Relaxing,0.56,118,830
+Kesariya - Brahmastra,Energetic,Evening,Workout,0.98,105,831
+Saili,Calm,Night,Workout,0.53,124,832
+Shape of You,Sad,Morning,Workout,0.89,61,833
+Paint The Town Red - Doja Cat,Calm,Night,Workout,0.39,91,834
+Yo Mann Ta Mero Nepali Ho,Happy,Morning,Relaxing,0.79,105,835
+Blinding Lights,Happy,Night,Chilling,0.53,85,836
+Bekhayali,Happy,Evening,Studying,0.44,94,837
+Sannani - VTEN,Happy,Evening,Chilling,0.69,74,838
+Maya Pirati - Swoopna Suman,Sad,Morning,Workout,0.54,70,839
+As It Was - Harry Styles,Energetic,Morning,Chilling,0.96,116,840
+Blinding Lights,Energetic,Night,Relaxing,0.53,80,841
+Pasoori Nu - Satyaprem Ki Katha,Sad,Evening,Studying,0.71,89,842
+Yo Mann Ta Mero Nepali Ho,Calm,Night,Studying,0.59,62,843
+Tum Hi Ho,Sad,Night,Studying,0.82,107,844
+Sa Karnali,Sad,Afternoon,Relaxing,0.74,113,845
+Bekhayali,Energetic,Afternoon,Chilling,0.88,76,846
+Dance The Night - Dua Lipa,Calm,Morning,Workout,0.57,129,847
+Shape of You,Happy,Afternoon,Chilling,0.56,91,848
+Kal Ho Naa Ho,Calm,Morning,Studying,0.73,103,849
+Sannani - VTEN,Calm,Afternoon,Workout,0.79,123,850
+Laija Re,Sad,Night,Studying,0.77,91,851
+Heeriye - Jasleen Royal,Energetic,Afternoon,Workout,0.31,69,852
+Jhoome Jo Pathaan - Pathaan,Happy,Evening,Studying,0.98,80,853
+Tum Hi Ho,Energetic,Afternoon,Studying,0.79,87,854
+Saili,Sad,Night,Relaxing,0.44,65,855
+Pasoori Nu - Satyaprem Ki Katha,Calm,Evening,Studying,0.63,118,856
+Anti-Hero - Taylor Swift,Energetic,Morning,Workout,0.56,88,857
+Bekhayali,Happy,Night,Chilling,0.97,115,858
+Apna Bana Le - Bhediya,Sad,Afternoon,Chilling,0.75,106,859
+Heeriye - Jasleen Royal,Happy,Morning,Relaxing,0.56,111,860
+Maya Pirati - Swoopna Suman,Calm,Afternoon,Relaxing,0.68,67,861
+As It Was - Harry Styles,Calm,Evening,Chilling,0.53,72,862
+Tera Ban Jaunga,Calm,Afternoon,Chilling,0.81,68,863
+Jhoome Jo Pathaan - Pathaan,Happy,Evening,Workout,0.64,67,864
+Senorita,Sad,Evening,Studying,0.83,120,865
+Sa Karnali,Energetic,Evening,Chilling,0.81,67,866
+Laija Re,Happy,Night,Workout,0.52,75,867
+Senorita,Calm,Night,Workout,0.95,106,868
+Je Chhau Timi - Sushant KC,Sad,Afternoon,Workout,0.95,91,869
+Paint The Town Red - Doja Cat,Happy,Evening,Relaxing,0.38,81,870
+Tera Ban Jaunga,Happy,Night,Studying,0.73,63,871
+Paint The Town Red - Doja Cat,Sad,Evening,Relaxing,0.65,110,872
+Blinding Lights,Energetic,Afternoon,Relaxing,0.98,121,873
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Evening,Relaxing,0.55,116,874
+Sannani - VTEN,Happy,Morning,Studying,0.49,129,875
+Sannani - VTEN,Sad,Night,Workout,0.73,96,876
+As It Was - Harry Styles,Sad,Morning,Studying,0.51,118,877
+Kal Ho Naa Ho,Happy,Morning,Studying,0.91,120,878
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Morning,Relaxing,0.41,107,879
+Farki Farki - Rohit John Chhetri,Happy,Afternoon,Studying,0.39,93,880
+Farki Farki - Rohit John Chhetri,Calm,Afternoon,Workout,0.67,116,881
+Heeriye - Jasleen Royal,Energetic,Night,Studying,0.3,100,882
+Calm Down - Rema,Calm,Afternoon,Workout,0.45,83,883
+Flowers - Miley Cyrus,Calm,Morning,Relaxing,0.43,130,884
+Kal Ho Naa Ho,Happy,Evening,Relaxing,0.94,85,885
+Memories,Calm,Evening,Chilling,0.48,94,886
+Tum Hi Ho,Energetic,Afternoon,Chilling,0.73,99,887
+Senorita,Sad,Evening,Chilling,0.37,94,888
+Kesariya - Brahmastra,Happy,Evening,Studying,0.72,121,889
+Calm Down - Rema,Calm,Evening,Relaxing,0.63,82,890
+Memories,Calm,Afternoon,Workout,1.0,62,891
+Calm Down - Rema,Happy,Afternoon,Studying,0.65,83,892
+Calm Down - Rema,Energetic,Morning,Chilling,0.3,68,893
+Calm Down - Rema,Energetic,Morning,Studying,0.99,83,894
+Perfect,Energetic,Evening,Studying,0.85,111,895
+Kal Ho Naa Ho,Calm,Morning,Relaxing,0.98,93,896
+Bekhayali,Sad,Night,Relaxing,0.85,96,897
+Saili,Calm,Afternoon,Workout,0.76,94,898
+Tum Hi Ho,Energetic,Afternoon,Studying,0.63,74,899
+Blinding Lights,Calm,Morning,Relaxing,0.78,124,900
+Paint The Town Red - Doja Cat,Energetic,Afternoon,Chilling,0.82,91,901
+Bekhayali,Calm,Morning,Relaxing,1.0,73,902
+Shape of You,Energetic,Morning,Chilling,0.6,100,903
+Flowers - Miley Cyrus,Happy,Night,Workout,0.99,119,904
+Maya Pirati - Swoopna Suman,Calm,Morning,Chilling,0.61,74,905
+Shape of You,Sad,Night,Chilling,0.73,89,906
+Perfect,Calm,Night,Workout,0.8,96,907
+Anti-Hero - Taylor Swift,Energetic,Morning,Workout,0.46,108,908
+Flowers - Miley Cyrus,Energetic,Afternoon,Relaxing,0.84,87,909
+Perfect,Calm,Morning,Studying,0.95,88,910
+Timi Nai Hau,Happy,Night,Relaxing,0.51,68,911
+Pasoori Nu - Satyaprem Ki Katha,Calm,Afternoon,Workout,0.35,99,912
+Anti-Hero - Taylor Swift,Energetic,Morning,Studying,0.83,99,913
+Dance The Night - Dua Lipa,Energetic,Night,Workout,0.92,89,914
+Blinding Lights,Energetic,Morning,Studying,0.34,78,915
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Morning,Workout,0.53,109,916
+Maya Pirati - Swoopna Suman,Calm,Night,Workout,0.5,74,917
+Calm Down - Rema,Happy,Night,Workout,0.31,130,918
+Pasoori Nu - Satyaprem Ki Katha,Happy,Night,Workout,0.82,114,919
+Heeriye - Jasleen Royal,Sad,Afternoon,Workout,0.46,96,920
+Pasoori Nu - Satyaprem Ki Katha,Sad,Morning,Chilling,0.35,124,921
+Dance The Night - Dua Lipa,Happy,Evening,Studying,0.73,123,922
+Timi Nai Hau,Energetic,Evening,Workout,0.8,99,923
+Kal Ho Naa Ho,Sad,Night,Chilling,0.78,80,924
+Je Chhau Timi - Sushant KC,Happy,Evening,Chilling,0.46,127,925
+Paint The Town Red - Doja Cat,Energetic,Evening,Workout,0.91,88,926
+Yo Mann Ta Mero Nepali Ho,Energetic,Morning,Studying,0.76,85,927
+Shayad,Sad,Afternoon,Chilling,0.54,118,928
+Yo Mann Ta Mero Nepali Ho,Sad,Morning,Workout,0.92,76,929
+Saili,Calm,Morning,Relaxing,0.32,62,930
+Heeriye - Jasleen Royal,Happy,Afternoon,Chilling,0.75,72,931
+Anti-Hero - Taylor Swift,Happy,Evening,Workout,0.92,83,932
+Kal Ho Naa Ho,Sad,Night,Workout,0.39,118,933
+Farki Farki - Rohit John Chhetri,Energetic,Night,Relaxing,0.62,91,934
+Sannani - VTEN,Energetic,Night,Relaxing,0.87,126,935
+Sannani - VTEN,Calm,Afternoon,Relaxing,0.8,61,936
+Kal Ho Naa Ho,Sad,Night,Relaxing,0.67,72,937
+Shape of You,Energetic,Night,Workout,0.86,63,938
+Jhoome Jo Pathaan - Pathaan,Energetic,Evening,Workout,1.0,118,939
+Apna Bana Le - Bhediya,Happy,Night,Relaxing,0.51,107,940
+Teenpatey - Tribal Rain,Happy,Morning,Studying,0.98,112,941
+Kesariya - Brahmastra,Happy,Evening,Studying,0.48,126,942
+Heeriye - Jasleen Royal,Calm,Evening,Chilling,0.65,110,943
+Senorita,Energetic,Morning,Workout,0.8,87,944
+Apna Bana Le - Bhediya,Happy,Morning,Studying,0.6,81,945
+Yo Mann Ta Mero Nepali Ho,Sad,Afternoon,Relaxing,0.37,118,946
+Bekhayali,Happy,Night,Workout,0.8,72,947
+As It Was - Harry Styles,Sad,Afternoon,Studying,0.61,99,948
+Paint The Town Red - Doja Cat,Happy,Night,Studying,0.73,108,949
+Jhoome Jo Pathaan - Pathaan,Happy,Morning,Workout,0.48,64,950
+Maya Pirati - Swoopna Suman,Happy,Afternoon,Relaxing,0.41,65,951
+Blinding Lights,Calm,Afternoon,Chilling,0.44,75,952
+Tera Ban Jaunga,Sad,Afternoon,Relaxing,0.6,73,953
+Blinding Lights,Calm,Morning,Relaxing,0.52,108,954
+As It Was - Harry Styles,Energetic,Evening,Studying,0.51,92,955
+Sa Karnali,Energetic,Evening,Relaxing,0.8,72,956
+Saili,Energetic,Evening,Relaxing,0.68,125,957
+Jhoome Jo Pathaan - Pathaan,Energetic,Afternoon,Relaxing,0.95,123,958
+Laija Re,Sad,Night,Relaxing,0.7,69,959
+Maya Pirati - Swoopna Suman,Happy,Night,Studying,0.39,75,960
+Dance The Night - Dua Lipa,Happy,Evening,Studying,0.63,121,961
+Senorita,Energetic,Morning,Chilling,0.92,70,962
+Tere Vaaste - Zara Hatke Zara Bachke,Sad,Afternoon,Workout,0.96,81,963
+Teenpatey - Tribal Rain,Happy,Evening,Studying,0.44,121,964
+Sannani - VTEN,Sad,Morning,Workout,0.89,79,965
+Maya Pirati - Swoopna Suman,Energetic,Afternoon,Chilling,0.83,127,966
+Senorita,Happy,Evening,Workout,0.9,109,967
+As It Was - Harry Styles,Calm,Night,Chilling,0.4,113,968
+Sannani - VTEN,Sad,Morning,Studying,0.65,75,969
+Memories,Calm,Morning,Studying,0.55,127,970
+Heeriye - Jasleen Royal,Happy,Night,Studying,0.62,98,971
+Maya Pirati - Swoopna Suman,Energetic,Night,Relaxing,0.84,130,972
+Calm Down - Rema,Energetic,Morning,Workout,0.7,115,973
+Bekhayali,Energetic,Evening,Studying,0.63,107,974
+Shayad,Energetic,Morning,Chilling,0.38,116,975
+Yo Mann Ta Mero Nepali Ho,Energetic,Evening,Chilling,0.32,125,976
+Laija Re,Sad,Evening,Chilling,0.66,100,977
+Perfect,Happy,Night,Studying,0.69,121,978
+Sannani - VTEN,Happy,Afternoon,Relaxing,0.99,63,979
+Flowers - Miley Cyrus,Calm,Afternoon,Relaxing,0.34,77,980
+Jhoome Jo Pathaan - Pathaan,Sad,Night,Studying,0.94,117,981
+As It Was - Harry Styles,Happy,Night,Studying,0.66,63,982
+Memories,Calm,Night,Chilling,0.39,73,983
+Calm Down - Rema,Calm,Afternoon,Chilling,0.4,130,984
+Tum Hi Ho,Calm,Afternoon,Relaxing,0.81,122,985
+Kesariya - Brahmastra,Sad,Morning,Studying,0.57,63,986
+Umer Jasto - Neetesh Jung Kunwar,Energetic,Night,Studying,0.8,83,987
+Blinding Lights,Calm,Evening,Relaxing,0.94,67,988
+Pasoori Nu - Satyaprem Ki Katha,Calm,Night,Chilling,0.51,108,989
+Kal Ho Naa Ho,Happy,Evening,Workout,0.94,81,990
+Jhoome Jo Pathaan - Pathaan,Sad,Afternoon,Studying,0.31,108,991
+Anti-Hero - Taylor Swift,Happy,Morning,Chilling,0.97,100,992
+Bekhayali,Happy,Evening,Chilling,0.48,107,993
+Farki Farki - Rohit John Chhetri,Happy,Evening,Chilling,0.95,79,994
+Unholy - Sam Smith,Sad,Evening,Studying,0.94,119,995
+Teenpatey - Tribal Rain,Happy,Morning,Relaxing,0.47,67,996
+Flowers - Miley Cyrus,Happy,Evening,Relaxing,0.84,117,997
+As It Was - Harry Styles,Energetic,Morning,Studying,0.97,93,998
+Jhoome Jo Pathaan - Pathaan,Happy,Afternoon,Workout,0.47,68,999
+Calm Down - Rema,Sad,Morning,Relaxing,0.47,98,1000
